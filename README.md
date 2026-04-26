@@ -230,7 +230,6 @@ MIT — voir [`LICENSE`](LICENSE).
 
 ## 👤 Auteur
 
-**[Ton Nom]**
-- GitHub : [@ton-username](https://github.com/ton-username)
-- LinkedIn : [ton-profil](https://linkedin.com/in/ton-profil)
-- 🤗 Hugging Face : [hf-username](https://huggingface.co/hf-username)
+**Fouad MOUTAIROU**
+- GitHub : https://github.com/Fouad-berry
+- LinkedIn : https://www.linkedin.com/in/fouad-moutairou-044460273
